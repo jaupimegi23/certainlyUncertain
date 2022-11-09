@@ -1,0 +1,5 @@
+env
+preprocessing/data
+gan_architectures.py
+gan_training.py
+Temp
