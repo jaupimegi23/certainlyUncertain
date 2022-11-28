@@ -5,3 +5,4 @@ gan_training.py
 Temp
 data
 .DS_Store
+models/model_save/
